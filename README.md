@@ -48,3 +48,9 @@ jupyter notebook PPO-A2C-Stock-trading-project.ipynb
 - Add Dueling or Rainbow DQN.
 - Extend to multi-asset portfolio optimization.
 - Model realistic transaction costs and slippage.
+
+👩‍💻 Author
+
+Sailaja Morrennagari
+GitHub: https://github.com/Sailaja-ASB
+LinkedIn: https://www.linkedin.com/in/sailajamorrennagari
