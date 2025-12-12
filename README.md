@@ -51,6 +51,6 @@ jupyter notebook PPO-A2C-Stock-trading-project.ipynb
 
 👩‍💻 Author
 
-Sailaja Morrennagari
-GitHub: https://github.com/Sailaja-ASB
+Sailaja Morrennagari /n
+GitHub: https://github.com/Sailaja-ASB /n
 LinkedIn: https://www.linkedin.com/in/sailajamorrennagari
