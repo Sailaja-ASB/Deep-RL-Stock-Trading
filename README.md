@@ -49,8 +49,8 @@ jupyter notebook PPO-A2C-Stock-trading-project.ipynb
 - Extend to multi-asset portfolio optimization.
 - Model realistic transaction costs and slippage.
 
-👩‍💻 Author
+## 👩‍💻 Author
 
-Sailaja Morrennagari /n
-GitHub: https://github.com/Sailaja-ASB /n
+**Sailaja Morrennagari**  
+GitHub: https://github.com/Sailaja-ASB  
 LinkedIn: https://www.linkedin.com/in/sailajamorrennagari
